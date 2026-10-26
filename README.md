@@ -62,8 +62,6 @@ This project demonstrates private network communication between two Amazon Virtu
 
 ## Cleanup Status
 
-## Cleanup Status
-
 After completing the project, I cleaned up the AWS resources created for the lab to help avoid unnecessary ongoing charges.
 
 Cleanup activities included:
