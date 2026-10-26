@@ -58,7 +58,7 @@ This project demonstrates private network communication between two Amazon Virtu
 
 - **Project report:** `MOHAMMED_ASHIF_S_EWB_VPC_Peering.pdf`
 - **Architecture diagram:** `vpc-peering-architecture.png`
-- **Test screenshots:** `screenshots/`
+
 
 ## Cleanup Status
 
